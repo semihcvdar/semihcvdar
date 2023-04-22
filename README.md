@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I am currently receiving training on self-improvement.<br>
+
+⚡Hi, I am currently working at Lighthouse Worldwide Solutions EMEA. 
+
+🌱 At the same time, I am trying to improve myself in the field of software and 3D design.<br>
 
 
 ## 🌐 Socials:
