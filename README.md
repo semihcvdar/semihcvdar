@@ -1,5 +1,6 @@
 # 💫 About Me:
-⚡Hi, I am currently working at Lighthouse Worldwide Solutions EMEA.<br><br>🌱 At the same time, I am trying to improve myself in the field of software and 3D design.
+⚡👋 Hello! I am a first-year student of computer programming at Trakya University. I am studying via distance education while also developing myself in the field of software.
+Additionally, I engage in commercial activities related to 3D modeling and printing. Thank you! 😊
 
 
 ## 🌐 Socials:
