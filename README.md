@@ -1,6 +1,6 @@
 # 💫 About Me:
-⚡👋 Hello! I am a first-year student of computer programming at Trakya University. I am studying via distance education while also developing myself in the field of software.
-Additionally, I engage in commercial activities related to 3D modeling and printing. Thank you! 😊
+⚡👋 Hello! I am a second year student of Computer Programming at Trakya University. While studying with distance education, I am developing myself in the field of software.
+I am also engaged in commercial activities related to 3D modelling and printing. Thank you! 😊
 
 
 ## 🌐 Socials:
